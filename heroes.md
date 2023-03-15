@@ -6,4 +6,4 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
-* Volcán Verde dos!!
+* Volcán Verde (localmente)!!
